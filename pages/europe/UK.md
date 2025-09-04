@@ -53,6 +53,8 @@ Professors:
 - [Steve Carver](https://environment.leeds.ac.uk/geography/staff/1013/dr-steve-carver): wilderness, wildland, rewilding, landscape evaluation, GIS, spatial analysis, environmental modeling, participatory GIS;
 - [Jiaqi Ge](https://environment.leeds.ac.uk/geography/staff/2702/jiaqi-ge): agent-based modeling, urban analytics, complex urban systems, economics, regional labor market;
 - [Vikki Houlden](https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden): urban science, spatial inequality, greenspace, health, mental wellbeing, places left behind, GIS.
+- [Yuchen Li](https://environment.leeds.ac.uk/geography/staff/12888/dr-yuchen-li): GIS, urban data science, health geography, environmental epidemiology, transportation.
+- [Weiming Huang](https://environment.leeds.ac.uk/geography/staff/13092/dr-weiming-huang): GIS, urban analytics, machine Learning; knowledge graph; data mining.
 
 
 
